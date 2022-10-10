@@ -1,1 +1,1 @@
-# git-rules
+m2
