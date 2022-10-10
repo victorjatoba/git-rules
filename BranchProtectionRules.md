@@ -25,7 +25,25 @@ Check how PRs works with checking the rules below:
 - Fazer PR
 - Fazer commits na main
 
-Tentar aprovar o PR
+```fs
+54e9e35 (HEAD -> main, origin/main, origin/HEAD) m3
+874ed99 m2
+223702a m1
+cc6f032 Initial commit
+```
+
+- Após aprovar o PR
+
+```fs
+d0a9578 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from victorjatoba/subsystem
+54e9e35 m3
+25e3d12 (origin/subsystem) Merge branch 'main' into subsystem
+874ed99 m2
+223702a m1
+5cbb96f (subsystem) s2
+33091dc s1
+cc6f032 Initial commit
+```
 
 Sugestões de mais marcações:
 
